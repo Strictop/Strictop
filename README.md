@@ -2,6 +2,8 @@
 <h1 align="center">Salut je suis Strictop</h1>
 <h3 align="center">Je suis débutant dans le codage</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&background=4500FF00&width=435&lines=Bien+le+bonjour+la+populace)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/strictop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="strictop" height="30" width="40" /></a>
