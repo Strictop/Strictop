@@ -2,7 +2,7 @@
 <h1 align="center">Salut je suis Strictop</h1>
 <h3 align="center">Je suis débutant dans le codage</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&background=4500FF00&width=435&lines=Bien+le+bonjour+la+populace)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005CFF&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++++Bien+le+bonjour+jeune+codeur)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
