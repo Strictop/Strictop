@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/II--Strictop--II">
+  <a href="https://open.spotify.com/user/no1t04v14gntgicr0v7eyatkh">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
