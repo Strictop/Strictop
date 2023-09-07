@@ -26,7 +26,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Strictop.Strictop&left_text=Visitor on my github"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Strictop.Strictop&left_text=Visitor"  />
 </div>
 
 ###
